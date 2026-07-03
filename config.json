@@ -60,6 +60,25 @@
       ]
     },
     {
+      "id": "python-data-dashboard-web-app",
+      "title": "Python Data Dashboard Web App",
+      "description": "Combine data analysis and FastAPI to build a simple data dashboard web app.",
+      "path": "assignments/python-data-dashboard-web-app",
+      "dueDate": "2026-07-24",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "sales_data.csv",
+          "type": "csv"
+        }
+      ]
+    },
+    {
       "id": "building-rest-apis-fastapi",
       "title": "Building REST APIs with FastAPI",
       "description": "Create a simple REST API using FastAPI",
